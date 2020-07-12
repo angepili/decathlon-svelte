@@ -18,7 +18,7 @@ Replica di alcuni componenti della pagina Decathlon Rent, in svelte.js
 Per far partire il progetto:
 ```shell
 cd ~
-git clone 
+git clone https://github.com/angepili/decathlon-svelte
 cd decathlon-svelte
 npm i
 npm run dev
